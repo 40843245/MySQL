@@ -1,4 +1,4 @@
-# Perl
+# MySQL
 ## repo intro
 In this repo, I will place my learning notes about MySQL.
 
