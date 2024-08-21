@@ -1,5 +1,6 @@
 # MySQL
 ## installation
+### install free version of MySQL server  
 To install free version of MySQL server to your device. Follow these steps.
 
 1. visit [MySQL Downloads](https://dev.mysql.com/downloads/mysql/8.0.html).
@@ -20,6 +21,15 @@ To install free version of MySQL server to your device. Follow these steps.
 >
 > I think the easiest way to solve it is that to reinstall it again (which is tad cumbersome).
 
+### install free version of workbench
+1. visit [MySQL workbench Downloads](https://dev.mysql.com/downloads/workbench/)
+2. select OS.
+3. according to your needs and system requirement (such as Windows x64 or Windows x84), check the corresponding item and click `Download` button on the rightmost of the item. It will install an installation exe.
+4. Click installation exe. It will open the wizard for installation.
+5. Configure the settings in wizard for installation.
+6. Click `execute` button.
+7. Wait until the download is completed.
+8. That's done.
 ## use
 To type the MySQL command, either
 
