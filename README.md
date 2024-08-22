@@ -9,7 +9,7 @@ See [README.md](https://github.com/40843245/MySQL/blob/main/README.md)
 See [quickstart guide.md](https://github.com/40843245/MySQL/blob/main/quickstart%20guide.md)
 
 ## syntax
-See [syntax.md](https://github.com/40843245/Perl/blob/main/syntax.md)
+See [syntax.md](https://github.com/40843245/MySQL/blob/main/syntax.md)
 
 ## re
 About re (regular expression) which used in syntax.md, see [re.md](https://github.com/40843245/Perl/blob/main/re.md)
