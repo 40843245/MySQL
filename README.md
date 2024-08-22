@@ -21,7 +21,7 @@ About more useful but more advanced operations about Perl, see [how to.md](https
 If you are interested in advanced information (such as `references in other languages`) see [advanced information.md](https://github.com/40843245/Perl/blob/main/advanced%20information.md)
 
 ## reference
-See [reference.md](https://github.com/40843245/Perl/blob/main/reference/reference.md)
+See [reference.md](https://github.com/40843245/MySQL/blob/main/reference.md)
 
 ## templates
 See [templates.md](https://github.com/40843245/Perl/blob/main/templates.md)
