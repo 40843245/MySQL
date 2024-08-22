@@ -24,4 +24,4 @@ If you are interested in advanced information (such as `references in other lang
 See [reference.md](https://github.com/40843245/MySQL/blob/main/reference.md)
 
 ## templates
-See [templates.md](https://github.com/40843245/Perl/blob/main/templates.md)
+See [templates.md](https://github.com/40843245/MySQL/blob/main/templates.md)
