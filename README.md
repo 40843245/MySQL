@@ -20,6 +20,9 @@ See [basic operation.md](https://github.com/40843245/MySQL/blob/main/basic%20ope
 ## built-in function in MySQL
 See [function.md](https://github.com/40843245/MySQL/blob/main/function.md)
 
+## operation about transaction
+See [operation about transaction.md](https://github.com/40843245/MySQL/blob/main/operation%20about%20transaction.md)
+
 ## operations about current database etc
 See [operations about current database etc.md](https://github.com/40843245/MySQL/blob/main/operations%20about%20current%20database%20etc.md)
 
