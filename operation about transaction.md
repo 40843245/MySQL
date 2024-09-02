@@ -40,3 +40,13 @@ COMMIT
 ```
 
 See [`COMMIT` MySQL official docs](https://dev.mysql.com/doc/refman/8.4/en/commit.html)
+
+### `RELEASE`
+To free up something, use `RELEASE` clause.
+
+For example, to free up the savepoint, use `RELEASE SAVEPOINT` clause.
+
+It will free up the savepoint <savepoint1>.
+```
+RELEASE SAVEPOINT <savepoint1>;
+```
