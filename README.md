@@ -23,6 +23,8 @@ See [function.md](https://github.com/40843245/MySQL/blob/main/function.md)
 ## operations about current database etc
 See [operations about current database etc.md](https://github.com/40843245/MySQL/blob/main/operations%20about%20current%20database%20etc.md)
 
+## operation about MySQL setting
+See [operation about MySQL setting.md](https://github.com/40843245/MySQL/blob/main/operation%20about%20MySQL%20setting.md)
 ## advanced information
 If you are interested in advanced information (such as `references in other languages`) see [advanced information.md](https://github.com/40843245/Perl/blob/main/advanced%20information.md)
 
