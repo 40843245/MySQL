@@ -38,6 +38,12 @@ where
 
 See [`CREATE TABLE` MySQL official docs](https://dev.mysql.com/doc/refman/8.4/en/create-table.html)
 
+#### `DROP TABLE`
+See [`DROP TABLE` MySQL official docs](https://dev.mysql.com/doc/refman/8.0/en/drop-table.html)
+
+#### `ALTER TABLE`
+See [`ALTER TABLE` MySQL official docs](https://dev.mysql.com/doc/refman/8.0/en/alter-table.html)
+
 #### `SELECT`
 The `SELECT` clause to select and display a variable or a table.
 
@@ -65,6 +71,28 @@ To indicate the datas that we manipulate from the table or the returned value su
 See [`SELECT` MySQL official docs](https://dev.mysql.com/doc/refman/8.0/en/select.html)
 
 ##### `GROUP BY`
+The clause `GROUP BY` groups the records with given fields.
 
-### VIEW
+```
+GROUP BY <fieldName>
+```
 
+##### `HAVING`
+To filter out with given conidition after grouping (using `GROUP BY` clause), use `HAVING` clause.
+
+> [!TIP]
+> Remember that basic MySQL statement.
+> 
+> `SELECT <fieldNameToShow> FROM <tableName> WHERE <condition1> GROUP BY <fieldName2> HAVING <condition2>`
+
+> [!TIP]
+> Filter returned value of `FROM` with `WHERE` v.s. filter returned value of `GROUP BY` with `HAVING`.
+
+### view
+views are reflection of a table or returned value of subquery.
+
+#### `CREATE VIEW`
+See [`CREATE VIEW` MySQL official docs](https://dev.mysql.com/doc/refman/8.0/en/create-view.html)
+
+#### `DROP VIEW`
+See [`DROP VIEW` MySQL official docs](https://dev.mysql.com/doc/refman/8.0/en/drop-view.html)
