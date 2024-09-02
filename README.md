@@ -11,11 +11,17 @@ See [quickstart guide.md](https://github.com/40843245/MySQL/blob/main/quickstart
 ## syntax
 See [syntax.md](https://github.com/40843245/MySQL/blob/main/syntax.md)
 
-## re
-About re (regular expression) which used in syntax.md, see [re.md](https://github.com/40843245/Perl/blob/main/re.md)
+## basic clause
+See [basic clause.md](https://github.com/40843245/MySQL/blob/main/basic%20clause.md)
 
-## how to
-About more useful but more advanced operations about Perl, see [how to.md](https://github.com/40843245/Perl/blob/main/how%20to/how%20to.md)
+## basic operation
+See [basic operation.md](https://github.com/40843245/MySQL/blob/main/basic%20operation.md)
+
+## function
+See [function.md](https://github.com/40843245/MySQL/blob/main/function.md)
+
+## operations about current database etc
+See [operations about current database etc.md](https://github.com/40843245/MySQL/blob/main/operations%20about%20current%20database%20etc.md)
 
 ## advanced information
 If you are interested in advanced information (such as `references in other languages`) see [advanced information.md](https://github.com/40843245/Perl/blob/main/advanced%20information.md)
