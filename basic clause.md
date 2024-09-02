@@ -44,6 +44,7 @@ See [`DROP TABLE` MySQL official docs](https://dev.mysql.com/doc/refman/8.0/en/d
 #### `ALTER TABLE`
 See [`ALTER TABLE` MySQL official docs](https://dev.mysql.com/doc/refman/8.0/en/alter-table.html)
 
+### records in table
 #### `SELECT`
 The `SELECT` clause to select and display a variable or a table.
 
@@ -51,6 +52,11 @@ See [`SELECT` MySQL official docs](https://dev.mysql.com/doc/refman/8.0/en/selec
 
 #### `INSERT`
 To insert into data as rows in table, use `INSERT INTO` clause.
+
+See [`INSERT` MySQL official docs](https://dev.mysql.com/doc/refman/8.0/en/insert.html)
+
+#### `UPDATE`
+To update one or more specific columns in table to new value, use `UPDATE` clause.
 
 See [`INSERT` MySQL official docs](https://dev.mysql.com/doc/refman/8.0/en/insert.html)
 
