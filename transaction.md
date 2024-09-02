@@ -42,6 +42,7 @@ Case in one transaction is writting, another transaction is reading
 See 
 + [資料庫 Isolation Levels](https://totoroliu.medium.com/%E8%B3%87%E6%96%99%E5%BA%AB-isolation-levels-c587d3103ba4)
 + [交易隔離等級 (ODBC) (Microsoft Official docs)](https://learn.microsoft.com/zh-tw/sql/odbc/reference/develop-app/transaction-isolation-levels?view=sql-server-ver16)
++ [isolation level official docs](https://dev.mysql.com/doc/refman/8.4/en/glossary.html#glos_isolation_level)
 
 ![image](https://github.com/user-attachments/assets/1c71493f-82c7-4f21-b645-7d62d050d962)
 
