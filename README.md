@@ -17,7 +17,7 @@ See [basic clause.md](https://github.com/40843245/MySQL/blob/main/basic%20clause
 ## basic operation
 See [basic operation.md](https://github.com/40843245/MySQL/blob/main/basic%20operation.md)
 
-## function
+## built-in function in MySQL
 See [function.md](https://github.com/40843245/MySQL/blob/main/function.md)
 
 ## operations about current database etc
@@ -25,6 +25,11 @@ See [operations about current database etc.md](https://github.com/40843245/MySQL
 
 ## operation about MySQL setting
 See [operation about MySQL setting.md](https://github.com/40843245/MySQL/blob/main/operation%20about%20MySQL%20setting.md)
+
+## concepts and terms
+### transaction
+See [transaction.md](https://github.com/40843245/MySQL/blob/main/transaction.md)
+
 ## advanced information
 If you are interested in advanced information (such as `references in other languages`) see [advanced information.md](https://github.com/40843245/Perl/blob/main/advanced%20information.md)
 
