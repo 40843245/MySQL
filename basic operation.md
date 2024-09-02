@@ -1,13 +1,32 @@
 # MySQL
 ## basic operation
-### `CREATE TABLE` clause
-Use `CREATE TABLE` clause.
+### database
+#### `CREATE DATABASE` clause
+To create a database, use `CREATE DATABASE` clause.
+
+```
+CREATE DATABASE <databaseName>;
+```
+
+See[`CREATE DATABASE` MySQL official docs](https://dev.mysql.com/doc/refman/8.4/en/creating-database.html)
+
+#### `USE DATABASE` clause
+To use the database as current database, use `USE` clause.
+
+```
+USE <databaseName>;
+```
+
+
+### table
+#### `CREATE TABLE` clause
+To create a new table, use `CREATE TABLE` clause.
 
 ```
 CREATE TABLE <tableName>(
     <field>
     [,<field>]
-)
+);
 ```
 
 where
@@ -16,10 +35,14 @@ where
 <field> := <fieldName> <fieldType> <fieldModifiers>
 ```
 
-### `SELECT` clause
+See [`CREATE TABLE` MySQL official docs](https://dev.mysql.com/doc/refman/8.4/en/create-table.html)
+
+#### `SELECT` clause
 The `SELECT` clause to select and display a variable or a table.
 
-### `INSERT` clause
+See [`SELECT` MySQL official docs](https://dev.mysql.com/doc/refman/8.0/en/select.html)
+
+#### `INSERT` clause
 To insert into data as rows in table, use `INSERT INTO` clause.
 
 See [`INSERT` MySQL official docs](https://dev.mysql.com/doc/refman/8.0/en/insert.html)
