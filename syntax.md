@@ -16,6 +16,7 @@
 > `NOT EXISTS` clause is opposite of `EXISTS` clause.
 
 For more details about `EXISTS` clause and `NOT` clause that used in subquery, see [`Subqueries with EXISTS or NOT EXISTS` MySQL official docs](https://dev.mysql.com/doc/refman/8.4/en/exists-and-not-exists-subqueries.html)
+
 ### subquery
 A subquery refers the an other query in a query.
 
