@@ -50,3 +50,9 @@ It will free up the savepoint <savepoint1>.
 ```
 RELEASE SAVEPOINT <savepoint1>;
 ```
+
+### `WORK`
+> [!NOTE]
+> Within all stored programs, the parser treats `BEGIN [WORK]` as the beginning of a `BEGIN ... END` block.
+> 
+> To begin a transaction in this context, use `START TRANSACTION` instead.
