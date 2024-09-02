@@ -3,13 +3,13 @@
 ### `EXISTS` clause
 
 ```
-<field> EXISTS <subquery>
+<field> EXISTS [<table>|<subquery>]
 ```
 
 ### `NOT EXISTS` clause
 
 ```
-<field> NOT EXISTS <subquery>
+<field> NOT EXISTS [<table>|<subquery>]
 ```
 
 > [!CAUTION]
