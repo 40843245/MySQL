@@ -1,10 +1,14 @@
 # MySQL
 ## transaction
+### glossary transaction in MySQL
+See [glossary transaction in MySQL (MySQL official docs)](https://dev.mysql.com/doc/refman/8.4/en/glossary.html#glos_transaction)
+
+### transaction type
 See [SQL Commands | DDL, DQL, DML, DCL and TCL Commands](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/)
-### DML transaction (Data Manipulation Language transaction)
-### DDL transaction (Data Definition Language transaction)
-### DCL transaction (Data Control Language transaction)
-### TCL (Transaction Control Language)
+#### DML transaction (Data Manipulation Language transaction)
+#### DDL transaction (Data Definition Language transaction)
+#### DCL transaction (Data Control Language transaction)
+#### TCL (Transaction Control Language)
 
 ### conflicts between many transactions
 See 
