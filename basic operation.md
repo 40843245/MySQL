@@ -17,7 +17,22 @@ To use the database as current database, use `USE` clause.
 USE <databaseName>;
 ```
 
+See[`CREATE DATABASE` MySQL official docs](https://dev.mysql.com/doc/refman/8.4/en/creating-database.html)
 
+#### `DATABASE()` function.
+To get current database, use `DATABASE()` function.
+
+```
+SELECT DATABASE();
+```
+
+or 
+
+```
+SELECT DATABASE() FROM DUAL;
+```
+
+Thanks to cwallenpoole's answer at [stackoverflow](https://stackoverflow.com/questions/8096550/how-to-determine-which-database-is-selected).
 ### table
 #### `CREATE TABLE` clause
 To create a new table, use `CREATE TABLE` clause.
