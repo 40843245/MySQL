@@ -58,7 +58,17 @@ See [`INSERT` MySQL official docs](https://dev.mysql.com/doc/refman/8.0/en/inser
 #### `UPDATE`
 To update one or more specific columns in table to new value, use `UPDATE` clause.
 
-See [`INSERT` MySQL official docs](https://dev.mysql.com/doc/refman/8.0/en/insert.html)
+See [`UPDATE` MySQL official docs](https://dev.mysql.com/doc/refman/8.0/en/update.html)
+
+#### `DELETE`
+To delete one or more records in table which satisfies the condition followed by `WHERE` clause, use `DELETRE`. 
+
+> [!CAUTION]
+> If `WHERE` and its condition are omitted, it means `WHERE 1` which will delete all records. Very be careful about that.
+
+> [!CAUTION]
+> In MySQL, to prevent to update and delete more records accidently. Execute the MySQL command `SQL_SAFE_UPDATES` before updating or deleting.
+
 
 #### `WHERE`
 To filter out by given condition, use `WHERE` clause.
