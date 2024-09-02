@@ -23,3 +23,7 @@ See
 + [交易隔離等級 (ODBC) (Microsoft Official docs)](https://learn.microsoft.com/zh-tw/sql/odbc/reference/develop-app/transaction-isolation-levels?view=sql-server-ver16)
 
 ![image](https://github.com/user-attachments/assets/1c71493f-82c7-4f21-b645-7d62d050d962)
+
+### Locking in MySQL
+
+![image](https://github.com/user-attachments/assets/6acf569d-2dbf-4e4f-8ba4-d75f926d682f)  
