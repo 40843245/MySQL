@@ -102,6 +102,17 @@ For syntax, see [`WITH` clause](#syntax-1)
 ### Recursive CTE (Recursive Common Table Expression)
 CTE is defined with `WITH` clause followed by `RECURSIVE` clause.
 
+Syntax:
+
+```
+WITH RECURSIVEcte_nameAS (
+initial_query--anchor member
+UNION ALL
+recursive_query--recursive member that references to the CTE name
+)
+SELECT * FROM cte_name;
+```
+
 As following example:
 
 ```
